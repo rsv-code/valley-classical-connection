@@ -14,7 +14,8 @@ me an email](mailto:tidy.idea5709@fastmail.com).
 | [Sacramento Philharmonic & Opera](https://www.sacphilopera.org/){:target="_blank" rel="noopener"} | A professional symphony orchestra from Sacramento. Concerts are regulary performed at the [SAFE Credit Union Performing Arts Center](https://safecreditunionconventioncenter.com/Facility/PerformingArtsCenter){:target="_blank" rel="noopener"}. |
 | [North State Symphony](https://northstatesymphony.org/){:target="_blank" rel="noopener"} | A professional symphony orchestra performing in Chico, Redding, Red Bluff, Oroville, and other cities. |
 | [Roseville Community Concert Band](http://www.rosevilleband.com/){:target="_blank" rel="noopener"} | An all volunteer symphonic band that performs throughout the greater Roseville and South Placer communities. | 
-
+| [Chamber Music Society of Sacramento](https://cmssacto.org/){:target="_blank" rel="noopener"} | Poviding high-quality chamber music performances since 1987. |
+| [Sacramento Symphonic Winds](https://sacwinds.org/){:target="_blank" rel="noopener"} | A symphonic winds ensemble performing a wide range of music from classic and contemporary wind band masterpieces since 2002. |  
 
 
 
