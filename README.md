@@ -7,6 +7,19 @@ This site is a work in progress so check back soon for more updates. If
 we're missing something or you have some information to add [please send 
 me an email](mailto:tidy.idea5709@fastmail.com).
 
+### Events
+
+| Date | Ensemble | Event | 
+| ------------- | ------------- | ------------- | 
+| 10/21/2023 07:30 PM | Sacramento Philharmonic & Opera | [American Landscapes: From the New World](https://www.sacphilopera.org/production/american-landscapes/){:target=""_blank"" rel=""noopener""} | 
+| 11/18/2023 07:30 PM | Sacramento Philharmonic & Opera | [Brahms’ Stormy Symphony No. 4](https://www.sacphilopera.org/production/brahms-symphony/){:target=""_blank"" rel=""noopener""} | 
+| 01/20/2024 07:30 PM | Sacramento Philharmonic & Opera | [Michelle Cann Plays Rachmaninoff](https://www.sacphilopera.org/production/michelle-plays-rachmaninoff/){:target=""_blank"" rel=""noopener""} | 
+| 02/24/2024 07:30 PM | Sacramento Philharmonic & Opera | [Opera! Die Fledermaus](https://www.sacphilopera.org/production/opera-die-fledermaus/){:target=""_blank"" rel=""noopener""} | 
+| 03/09/2024 07:30 PM | Sacramento Philharmonic & Opera | [Pictures at an Exhibition](https://www.sacphilopera.org/production/pictures-at-an-exhibition/){:target=""_blank"" rel=""noopener""} | 
+| 04/06/2024 07:30 PM | Sacramento Philharmonic & Opera | [Beethoven and Grieg](https://www.sacphilopera.org/production/beethoven-and-grieg/){:target=""_blank"" rel=""noopener""} | 
+| 05/11/2024 07:30 PM | Sacramento Philharmonic & Opera | [Opera! Don Giovanni](https://www.sacphilopera.org/production/opera-don-giovanni/){:target=""_blank"" rel=""noopener""} | 
+
+
 ### Ensembles
 
 | Ensemble | Description |
