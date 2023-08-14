@@ -16,6 +16,7 @@ me an email](mailto:tidy.idea5709@fastmail.com).
 | 09/16/2023 07:30 PM | Chamber Music Society of Sacramento | [Brahms, Gounod, Bruckner](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 09/17/2023 04:00 PM | Chamber Music Society of Sacramento | [Brahms, Gounod, Bruckner](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 09/18/2023 06:30 PM | Elk Grove Community Concert Band | [Fall Concert](https://www.elkgrovecommunityband.org/schedule-of-events){:target=""_blank"" rel=""noopener""} | 
+| 10/15/2023 03:00 PM | Auburn Winds | [Fall Concert](https://auburnwinds.org/events){:target=""_blank"" rel=""noopener""} | 
 | 10/21/2023 07:30 PM | Sacramento Philharmonic & Opera | [American Landscapes: From the New World](https://www.sacphilopera.org/production/american-landscapes/){:target=""_blank"" rel=""noopener""} | 
 | 10/28/2023 07:30 PM | Sacramento Choral Society and Orchestra | [Stained Glass – Music of the Spheres](https://sacramentochoral.org/){:target=""_blank"" rel=""noopener""} | 
 | 10/30/2023 06:30 PM | Elk Grove Community Concert Band | [Children's Concert](https://www.elkgrovecommunityband.org/schedule-of-events){:target=""_blank"" rel=""noopener""} | 
@@ -39,6 +40,7 @@ me an email](mailto:tidy.idea5709@fastmail.com).
 | 12/10/2023 03:00 PM | Rancho Cordova River City Concert Band | [Holiday Concert](https://www.rcconcertband.org/copy-of-concerts-events){:target=""_blank"" rel=""noopener""} | 
 | 12/11/2023 06:30 PM | Elk Grove Community Concert Band | [Winter Concert](https://www.elkgrovecommunityband.org/schedule-of-events){:target=""_blank"" rel=""noopener""} | 
 | 12/16/2023 07:30 PM | Chamber Music Society of Sacramento | [Élisabeth de la Guerre, Bach, Galuppi, Leclair](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
+| 12/17/2023 03:00 PM | Auburn Winds | [Holiday Concert](https://auburnwinds.org/events){:target=""_blank"" rel=""noopener""} | 
 | 12/17/2023 04:00 PM | Chamber Music Society of Sacramento | [Élisabeth de la Guerre, Bach, Galuppi, Leclair](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 01/20/2024 07:30 PM | Sacramento Philharmonic & Opera | [Michelle Cann Plays Rachmaninoff](https://www.sacphilopera.org/production/michelle-plays-rachmaninoff/){:target=""_blank"" rel=""noopener""} | 
 | 01/27/2024 07:30 PM | Chamber Music Society of Sacramento | [Beethoven, Brahms, Tchaikovsky](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
