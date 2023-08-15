@@ -3,8 +3,7 @@
 **Welcome!** This site is dedicated to providing classical music 
 information for the California Central Valley.
 
-This site is a work in progress so check back soon for more updates. If 
-we're missing something or you have some information to add [please send 
+If we're missing something or you have some information to add [please send 
 me an email](mailto:tidy.idea5709@fastmail.com).
 
 ### Events
