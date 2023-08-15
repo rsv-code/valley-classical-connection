@@ -26,8 +26,8 @@ me an email](mailto:tidy.idea5709@fastmail.com).
 | 11/05/2023 04:00 PM | Chamber Music Society of Sacramento | [Mozart/Kreisler, Brahms/Kreisler, William Grant Still, Debussy](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 11/05/2023 01:00 PM | Sacramento Youth Symphony | [Classic Orchestra & Vivace Strings](https://www.sacramentoyouthsymphony.org/concerts-events){:target=""_blank"" rel=""noopener""} | 
 | 11/05/2023 04:00 PM | Sacramento Youth Symphony | [Academic Orchestra & Symphonic Winds](https://www.sacramentoyouthsymphony.org/concerts-events){:target=""_blank"" rel=""noopener""} | 
-| 11/11/2023 07:30 PM | North State Symphony | [Swan Lake](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
-| 11/12/2023 02:00 PM | North State Symphony | [Swan Lake](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
+| 11/11/2023 07:30 PM | North State Symphony | [Swan Lake - Redding](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
+| 11/12/2023 02:00 PM | North State Symphony | [Swan Lake - Chico](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
 | 11/12/2023 03:00 PM | Sacramento Youth Symphony | [Premier Orchestra](https://www.sacramentoyouthsymphony.org/concerts-events){:target=""_blank"" rel=""noopener""} | 
 | 11/18/2023 07:30 PM | Sacramento Philharmonic & Opera | [Brahms’ Stormy Symphony No. 4](https://www.sacphilopera.org/production/brahms-symphony/){:target=""_blank"" rel=""noopener""} | 
 | 12/02/2023 08:00 AM | Rancho Cordova River City Concert Band | [Breakfast with Santa 2023](https://www.rcconcertband.org/copy-of-concerts-events){:target=""_blank"" rel=""noopener""} | 
@@ -46,8 +46,13 @@ me an email](mailto:tidy.idea5709@fastmail.com).
 | 01/27/2024 07:30 PM | Chamber Music Society of Sacramento | [Beethoven, Brahms, Tchaikovsky](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 01/28/2024 04:00 PM | Chamber Music Society of Sacramento | [Beethoven, Brahms, Tchaikovsky](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 02/05/2024 06:30 PM | Elk Grove Community Concert Band | [Valentine's Concert](https://www.elkgrovecommunityband.org/schedule-of-events){:target=""_blank"" rel=""noopener""} | 
+| 02/17/2024 07:30 PM | North State Symphony | [Mozart Requiem - Chico](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
+| 02/18/2024 02:00 PM | North State Symphony | [Mozart Requiem - Redding](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
 | 02/24/2024 07:30 PM | Sacramento Philharmonic & Opera | [Opera! Die Fledermaus](https://www.sacphilopera.org/production/opera-die-fledermaus/){:target=""_blank"" rel=""noopener""} | 
 | 03/02/2024 03:00 PM | Sacramento Choral Society and Orchestra | [European Masterworks](https://sacramentochoral.org/){:target=""_blank"" rel=""noopener""} | 
+| 03/05/2024 | North State Symphony | [Extraordinary Beethoven Youth Concerts - Redding](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
+| 03/06/2024 | North State Symphony | [Extraordinary Beethoven Youth Concerts - Red Bluff](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
+| 03/07/2024 | North State Symphony | [Extraordinary Beethoven Youth Concerts - Chico](https://northstatesymphony.org/2023-2024-concert-season/){:target=""_blank"" rel=""noopener""} | 
 | 03/09/2024 04:00 PM | Sacramento Baroque Soloists | [Concerti Grossi](https://www.sacramentobaroque.org/22nd-concert-season){:target=""_blank"" rel=""noopener""} | 
 | 03/09/2024 07:30 PM | Sacramento Philharmonic & Opera | [Pictures at an Exhibition](https://www.sacphilopera.org/production/pictures-at-an-exhibition/){:target=""_blank"" rel=""noopener""} | 
 | 03/10/2024 02:00 PM | Sacramento Baroque Soloists | [Concerti Grossi](https://www.sacramentobaroque.org/22nd-concert-season){:target=""_blank"" rel=""noopener""} | 
