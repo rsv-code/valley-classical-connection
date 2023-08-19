@@ -3,8 +3,11 @@
 **Welcome!** This site is dedicated to providing classical music 
 information for the California Central Valley.
 
-If we're missing something or you have some information to add [please send 
-me an email](mailto:tidy.idea5709@fastmail.com).
+[About](###about)
+
+[Events](###events)
+
+[Ensembles](###Ensembles)
 
 ### Events
 
@@ -91,6 +94,13 @@ me an email](mailto:tidy.idea5709@fastmail.com).
 | [Rancho Cordova River City Concert Band](https://www.rcconcertband.org/){:target="_blank" rel="noopener"} | A non profit organization made up of approximately 60 volunteer musicians. | 
 | [Winds of Faith](http://windsoffaith.com/){:target="_blank" rel="noopener"} | A 35 member band that presents concerts that are faith-based, fun, and free. | 
 
+### About
+
+Valley Classical Connection exists to provide the residents of the California Central Valley with various classical music resources. We provide links to ensembles, upcoming performances, radio stations, and more. 
+Some of the cities we cover are Sacramento, Roseville, Rocklin, Lincoln, Folsom, Auburn, Rancho Cordova, Citrus Heights, Redding, Chico, Elk Grove, Davis, and Woodland.
+
+If we're missing something or you have some information to add [please send 
+me an email](mailto:tidy.idea5709@fastmail.com).
 
 
 Copyright © 2023 Austin Lehman
