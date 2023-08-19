@@ -3,11 +3,7 @@
 **Welcome!** This site is dedicated to providing classical music 
 information for the California Central Valley.
 
-[About](###about)
-
-[Events](###events)
-
-[Ensembles](###Ensembles)
+[About](#about) | [Events](#events) | [Ensembles](#Ensembles)
 
 ### Events
 
