@@ -9,8 +9,6 @@ information for the California Central Valley.
 
 | Date | Ensemble | Event | 
 | ------------- | ------------- | ------------- | 
-| 08/27/2023 03:00 PM | Amador County Concert Band | [TBD](http://www.accband.org/Calendar.html){:target=""_blank"" rel=""noopener""} | 
-| 09/08/2023 07:00 PM | Auburn Winds | [Auburn Cruise Nite](https://auburnwinds.org/events){:target=""_blank"" rel=""noopener""} | 
 | 09/16/2023 07:30 PM | Chamber Music Society of Sacramento | [Brahms, Gounod, Bruckner](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 09/17/2023 04:00 PM | Chamber Music Society of Sacramento | [Brahms, Gounod, Bruckner](https://cmssacto.org/23-24-season){:target=""_blank"" rel=""noopener""} | 
 | 09/18/2023 06:30 PM | Elk Grove Community Concert Band | [Fall Concert](https://www.elkgrovecommunityband.org/schedule-of-events){:target=""_blank"" rel=""noopener""} | 
